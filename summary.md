@@ -50,6 +50,6 @@ Konkel Neabore, Lindsey. 2024. “Wake-up Call: Rapid Increase in Human Fungal D
 
 Leach, Michelle D., and Leah E. Cowen. 2013. “Surviving the Heat of the Moment: A Fungal Pathogens Perspective.” *PLoS Pathogens* 9 (3): e1003163. https://doi.org/10.1371/journal.ppat.1003163. 
 
-Robert, Vincent A., and Arturo Casadevall. 2009. *Vertebrate Endothermy Restricts Most Fungi as Potential Pathogens.* November 15. https://doi.org/10.1086/644642. 
+Robert, Vincent A., and Arturo Casadevall. 2009. “Vertebrate Endothermy Restricts Most Fungi as Potential Pathogens.” *The Journal of Infectious Diseases* 200 (10): 1623–26. https://doi.org/10.1086/644642.
 
 Veerdonk, Frank L van de, Agostinho Carvalho, Joost Wauters, George Chamilos, and Paul E Verweij. 2025. “Aspergillus Fumigatus Biology, Immunopathogenicity and Drug Resistance.” *Nat. Rev. Microbiol.* 23 (10): 652–66. https://doi.org/10.1038/s41579-025-01180-z. 
