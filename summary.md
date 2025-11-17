@@ -17,9 +17,11 @@ All species are constantly under attack by pathogens, without a mechanism to def
 
 Climate change is also allowing fungi to grow in areas of the world that would previously be unsuitable, which is resulting in increased fungal pathogen outbreaks. For example, the range of Valley fever is expected to double by 2100, as rising temperatures make soils across the United States the ideal environment for growth (Figure 1) (Konkel Neabore 2024). Rising temperatures are causing fungi to become more temperature tolerant, which is causing outbreaks of Aspergillus fumigatus to increase, threatening immunocompromised individuals. These pathogen outbreaks are particularly concerning as climate change is only expected to further increase temperatures, allowing fungi to spread across the globe.
 
-<img src="Figure_1.png" width="700">
-
-*Figure 1: The projected spread of Valley fever (Coccidioidomycosis) across the United States due to climate change for the years 2035, 2065, and 2095. The fungus grows in dirt and soil, with wind picking up particles and transporting them to new areas. Climate change is expected to cause drier and hotter environments, along with higher frequency of extreme weather events, allowing the fungus to spread and thrive in new locations. By 2095, it is likely that Valley fever will extend to the northern perimeter of the United States (Gorris et al. 2019).*
+<div align="center">
+  <img src="Figure_1.png" width="700">
+  <br>
+  <em>Figure 1: The projected spread of Valley fever (Coccidioidomycosis) across the United States due to climate change for the years 2035, 2065, and 2095. The fungus grows in dirt and soil, with wind picking up particles and transporting them to new areas. Climate change is expected to cause drier and hotter environments, along with higher frequency of extreme weather events, allowing the fungus to spread and thrive in new locations. By 2095, it is likely that Valley fever will extend to the northern perimeter of the United States (Gorris et al. 2019).</em>
+</div>
 
 ## Antifungal Medication and Climate Change
 
